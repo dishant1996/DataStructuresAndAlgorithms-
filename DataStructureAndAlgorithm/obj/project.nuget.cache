@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIu+0KCsMTQdTr+TX2wqLMCk2s1VVtIOkGQz/aYuJJV0oxKyLqY57rNWpvsPI+ypi6aJh2ueGILqO4UcsnMQ5Q==",
+  "success": true,
+  "projectFilePath": "E:\\COURSE BL\\New folder\\New folder\\DataStructureAndAlgorithmProblems-main\\DataStructureAndAlgorithm\\DataStructureAndAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
